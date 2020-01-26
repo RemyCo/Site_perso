@@ -1,78 +1,35 @@
+[![GitHub release (latest by date excluding pre-releases)](https://img.shields.io/github/v/release/RemyCo/Site_perso?color=brightgreen)](https://github.com/RemyCo/Site_perso/releases)
+[![GitHub last commit](https://img.shields.io/github/last-commit/RemyCo/Site_perso?color=orange)](https://github.com/RemyCo/Site_perso/commits/master)
+[![License](https://img.shields.io/github/license/RemyCo/Site_perso?color=red)](https://github.com/RemyCo/Site_perso/blob/master/LICENSE)
+
+![Site_perso](images/preview/Personal_Site-Preview.jpg)
+
 # Personnal site
 
-My personnal site to get a internship or a job.
+My personnal site to present my projects and my work.
 
-## Getting Started
+### Installation
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
+```bash
+# Clone this repository
+$ git clone https://github.com/RemyCo/Site_perso.git
 ```
 
-### Installing
+## Features
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
+* About me
+* Experiences
+* Formation
+* Skills
+* Hobbies
+* Work & Projects
+* Contact
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Reva](https://themeforest.net/item/reva-personal-one-page-template/21518903) - The template inspired of 
 
-## Versioning
-
-For the versions available, see the [tags on this repository](https://github.com/AdrienIzy/pfe/tags). 
-
-## Authors
-
-See the list of [contributors](https://github.com/AdrienIzy/pfe/contributors) who participated in this project.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](License.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
