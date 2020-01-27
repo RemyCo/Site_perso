@@ -7,7 +7,7 @@ footer p a:hover,
 .about .tabs-about .nav-link.active,
 .navbar .social-media a:hover,
 .navbar .nav-item.active-nav a {
-  color: #7ca95c; }
+  color: #e67e22; }
 
 .maps .open-map,
 .contact .form .message .send-btn,
@@ -21,47 +21,47 @@ footer p a:hover,
 .navbar-toggler .menu .line1,
 .navbar-toggler .menu .line2,
 .navbar-toggler .menu .line3 {
-  background-color: #7ca95c; }
+  background-color: #e67e22; }
 
 .testim .tabbable .tab-content .profile-details,
 .work .shuffle ul li.active,
 .work .shuffle ul li {
-  border: 1px solid #7ca95c; }
+  border: 1px solid #e67e22; }
 
 .testim .tabbable .tab-content .profile-image .image-tab,
 .testim .tabbable .list-tabs ul .active .image-tab {
-  border: 2px solid #7ca95c; }
+  border: 2px solid #e67e22; }
 
 .navbar .nav-item.active-nav {
-  border-bottom: 1px solid #7ca95c; }
+  border-bottom: 1px solid #e67e22; }
 
 .contact .form .form-group textarea,
 .contact .form .form-group input {
-  border-bottom: 2px solid #7ca95c; }
+  border-bottom: 2px solid #e67e22; }
 
 .about .tabs-about .nav-link.active {
-  border-top: 2px solid #7ca95c; }
+  border-top: 2px solid #e67e22; }
 
 .home3 .overlay {
-  background-color: rgba(124, 169, 92, 0.9); }
+  background-color: rgba(230, 126, 34, 0.9); }
 
 .testim .client .overlay-cl {
-  background-color: rgba(124, 169, 92, 0.7); }
+  background-color: rgba(230, 126, 34, 0.7); }
 
 .navbar .logo .bg_logo,
 .serv .content img {
-  filter: hue-rotate(50deg); }
+  filter: hue-rotate(340deg); }
 
 .background-gradient {
-  background: #7ca95c;
+  background: #e67e22;
   /* Old browsers */
-  background: -moz-linear-gradient(left, #7ca95c 0%, #93c96d 100%);
+  background: -moz-linear-gradient(left, #e67e22 0%, #e08739 100%);
   /* FF3.6-15 */
-  background: -webkit-linear-gradient(left, #7ca95c 0%, #93c96d 100%);
+  background: -webkit-linear-gradient(left, #e67e22 0%, #e08739 100%);
   /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to right, #7ca95c 0%, #93c96d 100%);
+  background: linear-gradient(to right, #e67e22 0%, #e08739 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7ca95c', endColorstr='#93c96d',GradientType=1 );
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e67e22', endColorstr='#e08739',GradientType=1 );
   /* IE6-9 */ }
 
-/*# sourceMappingURL=green-color.css.map */
+/*# sourceMappingURL=pink-color.css.map */

@@ -16,7 +16,25 @@
         <link rel="stylesheet" href="css/main.css" />
         <link rel="stylesheet" href="css/responsive.css" />
         <link rel="stylesheet" href="css/light_template.css" />
-        <link rel="stylesheet" href="css/colors/custom-color.css" />
+
+        <script>
+            function getRand(){
+                return Math.round(Math.random()*(css.length-1));
+            }
+            var css = new Array(
+            '<link rel="stylesheet" type="text/css" href="css/colors/orange-color.css">',
+            '<link rel="stylesheet" type="text/css" href="css/colors/blue-color.css">',
+            '<link rel="stylesheet" type="text/css" href="css/colors/yellow-color.css">',
+            '<link rel="stylesheet" type="text/css" href="css/colors/green-color.css">',
+            '<link rel="stylesheet" type="text/css" href="css/colors/pink-color.css">',
+            '<link rel="stylesheet" type="text/css" href="css/colors/purple-color.css">',
+            );
+            rand = getRand();
+            
+            document.write(css[rand]);
+            
+        </script>
+
 
         <!-- Favicon -->
         <link rel="icon" type="image/png" href="images/favicon.png" />
